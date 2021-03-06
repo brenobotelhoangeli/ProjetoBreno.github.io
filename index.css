@@ -1,0 +1,39 @@
+body {
+    background-color: dimgray;
+}
+h1 {
+    color:white;
+    margin-top: 100px;
+    margin-left: 0px;
+    background-color: black;
+    padding: 10px;
+}
+h2 {
+    color: black;
+    margin-top: 50px;
+    margin-left: 0px;
+    background-color: white;
+    padding: 10px;
+}
+.corpo {
+    width: 960px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.conteudo {
+    display: table;
+}
+.imagem {
+    display: table-cell;
+    float: right;
+    margin-top: 80px;
+    margin-left: ;
+}
+.texto {
+    font-size: 20px;
+    margin-top: 50px;
+}
+.topicos {
+    font-size: 20px;
+    margin-top: 100px;
+}
